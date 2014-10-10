@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings related to login -->
+    <string name="prompt_item_name">Name</string>
+    <string name="prompt_serial_number">Serial Number</string>
+    <string name="createObject">Create</string>
+
+</resources>
