@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.navigation.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.AboutScreen">
+        <location        
+          id = "point0"        
+          x = "0"        
+          y = "0"/>
+      </key>
+      <value      
+        x = "480"      
+        y = "160"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivityLauncher">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "550"      
+        y = "150"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.app.ImageTargets.ImageTargets">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "600"      
+        y = "200"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.app.FrameMarkers.FrameMarkers">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "650"      
+        y = "250"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.app.MultiTargets.MultiTargets">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "700"      
+        y = "300"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.app.CloudRecognition.CloudReco">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "750"      
+        y = "350"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.app.TextRecognition.TextReco">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "800"      
+        y = "400"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.app.CylinderTargets.CylinderTargets">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "850"      
+        y = "450"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivitySplashScreen">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "900"      
+        y = "500"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.app.UserDefinedTargets.UserDefinedTargets">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "950"      
+        y = "550"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+    <entry>
+      <key      
+        class = "com.android.navigation.ActivityState"      
+        className = "com.qualcomm.vuforia.samples.VuforiaSamples.app.VirtualButtons.VirtualButtons">
+        <location        
+          idref = "point0"/>
+      </key>
+      <value      
+        x = "1000"      
+        y = "600"      
+        class = "com.android.navigation.Point"/>
+    </entry>
+  </locations>
+</navigationModel>
